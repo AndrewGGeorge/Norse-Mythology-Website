@@ -1,0 +1,103 @@
+header {
+  color: white;
+  text-align: center;
+  font-size: 25px
+}
+
+body {
+  background-color: black;
+}
+
+.mythology {
+  height: 300px;
+  width: 100%;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 17px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: rgba(221, 221, 221, 0.493);
+}
+
+.topnav a.active {
+  background-color:  rgba(221, 221, 221, 0.493); 
+  color: white;
+}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+}
+
+.odinimg {
+  float: right;
+  font-size: 14px;
+}
+
+.intro {
+  background: #eee;
+  text-align: center;
+  padding: 65px;
+  font-size: 18px;
+  font-family: inherit;
+  margin: 10px 5px 5px;
+}
+
+.vikingimg {
+  float: left;
+  font-size: 14px;
+  padding: 10px 10px 10px;
+  margin: 5px 5px 10px;
+}
+
+
+.rightcolumn {
+  float: right;
+  width: 75%;
+}
+
+.leftcoloumn {
+
+  float: left;
+  width: 25%;
+}
+
+.lefttitle {
+
+  color: rgba(238, 238, 238, 0.747);
+  text-align: center;
+  font-family: inherit;
+  font-size: 18px;
+}
+
+.odinsketch {
+  
+  float: left;
+  width: 300px;
+  height: 450px;
+}
+
+.footer {
+
+  position: relative;
+  color: white;
+  margin-top: 112%;
+  
+}
+
