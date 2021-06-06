@@ -4,6 +4,10 @@ header {
   font-size: 25px
 }
 
+p {
+    margin-bottom: 24px;
+}
+
 body {
   background-color: black;
 }
@@ -45,7 +49,7 @@ body {
   font-size: 17px;
 }
 
-.odinimg {
+.img-right {
   float: right;
   font-size: 14px;
 }
@@ -59,7 +63,7 @@ body {
   margin: 10px 5px 5px;
 }
 
-.vikingimg {
+.img-left {
   float: left;
   font-size: 14px;
   padding: 10px 10px 10px;
@@ -100,4 +104,6 @@ body {
   margin-top: 112%;
   
 }
+
+
 
